@@ -1,0 +1,19 @@
+{
+    "name": "sharmin/php-utilities",
+    "description": "PHP UUID generation library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sharmin Shanta",
+            "email": "shantaex81@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SharminShanta\\PHPUtilities\\": "src"
+        }
+    }
+}
