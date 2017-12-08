@@ -269,7 +269,7 @@ class Countries
         'ZM' => 'Zambia',
         'ZW' => 'Zimbabwe'
     ];
-    
+
     /**
      * @return array
      */
@@ -277,7 +277,7 @@ class Countries
     {
         return self::countries;
     }
-    
+
     /**
      * @param $countryCode
      * @return string|null
